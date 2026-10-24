@@ -1,0 +1,79 @@
+.header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;    
+}
+
+body{
+    background-color: rgb(221, 141, 221);
+}
+
+nav{display: flex;
+    gap:300px;
+    border:5px;
+    border-color:purple;
+    border-style: solid;
+    padding: 10px 0;
+    background-color: rgb(208, 129, 208);
+}
+
+.a{color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 15px;
+text-align: center;
+}
+
+#home{
+    background-color: rgb(197, 65, 144);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.t{text-align:center;}
+
+.card{
+   
+ display: flex;          /* Activates Flexbox layout */
+    gap: 20px;              /* Spacing between the cards */
+    width: 100%;            /* Spans full width of the viewport */
+    max-width: 1200px;      /* Prevents stretching too far on large screens */
+    margin: 0 auto;         /* Centers the container horizontally */
+    padding: 20px;          /* Inward spacing for the container */
+    box-sizing: border-box;}
+#cakes{
+    border-color: black;
+    width:fit-content;
+    background-color: pink;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);   
+}
+
+.h{text-align: center;}
+
+#Desserts{
+    
+    border-color: black;
+    width:fit-content;
+    background-color: pink;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);   
+}
+
+.i{text-align: center;}
+
+.custom{
+    border-color: black;
+    width:fit-content;
+    background-color: pink;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);   
+}
+
+footer{
+    background-color: plum;
+    font-size: larger;
+    text-align: center;
+}

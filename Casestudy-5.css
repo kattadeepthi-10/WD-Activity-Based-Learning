@@ -1,0 +1,34 @@
+h1{color:black;
+    text-align: center;
+    text-decoration: underline;}
+body{background-color:lightcyan;}
+nav{text-indent: 10px;
+    background-color: skyblue;
+    word-spacing: 100px;
+    color:black;
+    border: 5px;
+    border-style: double;
+    
+}
+th{color:blue;
+   background-color: skyblue;
+   font-size: 16px;  }
+td{
+    padding: 20px;
+    color:black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rules{
+    font-size: larger;
+    padding: 20px;
+    border-color: blue;
+    width:1465px;
+    background-color:lightskyblue;
+    border-radius: 8px;
+    border-style:double;
+}
+footer{text-align: center;
+    background-color: skyblue;
+    padding: 10px;
+}
